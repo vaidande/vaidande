@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋🏻 
+I’m a Information Technology graduate of 2020 batch. I come with an extensive experience of working with different technologies including Deep Learning, Machine Learning and Data Science.
 
-<!--
-**vaidande/vaidande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am looking for a intern role in Deep Learning, Machine Learning or related field. 
 
-Here are some ideas to get you started:
+### Things I'm good at :fire:
+**Languages:**  Python, SQL, HTML, CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Framework:** Tensorflow, Flask.
+
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK..
+
+**Data Analysis:** Natural Language Processing, Image Processing, Data Visualization, Data Augmentation.
+
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918605498378) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/ritik-vaidande-6a1117168/)
