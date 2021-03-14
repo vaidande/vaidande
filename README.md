@@ -4,7 +4,7 @@ I’m a Information Technology graduate of 2020 batch. I come with an extensive 
 Currently, I am looking for a intern role in Deep Learning, Machine Learning or related field. 
 
 ### Things I'm good at :fire:
-**Languages:**  Python, SQL, HTML, CSS.
+**Languages:**  Python, HTML, CSS.
 
 **Framework:** Tensorflow, Flask.
 
