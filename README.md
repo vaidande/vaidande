@@ -6,7 +6,7 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 ### Things I'm good at :fire:
 **Languages:**  Python
 
-**Framework:** Tensorflow, Flask.
+**Transfer Learning:** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2.
 
 **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK..
 
