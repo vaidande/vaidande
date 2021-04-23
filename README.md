@@ -6,11 +6,11 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 ### Things I'm good at :fire:
 **Languages:**  Python
 
-**Transfer Learning:** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2.
+**Transfer Learning:** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2 with Fine Tuning methods.
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK..
+**Libraries & Tools:** Keras, NumPy, Pandas, Scikit-Learn, Matplotlib.
 
-**Data Analysis:** Natural Language Processing, Image Processing, Data Visualization, Data Augmentation.
+**Data Analysis:** Image Classification, Data Visualization, Data Augmentation.
 
 **Neural Networks:** Convolutional Neural Networks, Feedforward Artificial Neural Networks, Recurrent Neural Network.
 
