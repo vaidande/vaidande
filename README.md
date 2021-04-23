@@ -8,7 +8,7 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 
 **Transfer Learning:** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2 with Fine Tuning methods.
 
-**Libraries & Tools:** Keras, NumPy, Pandas, Scikit-Learn, Matplotlib.
+**Libraries, Frameworks & Tools:** Keras, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib.
 
 **Data Analysis:** Image Classification, Data Visualization, Data Augmentation.
 
