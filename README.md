@@ -6,7 +6,7 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 ### Things I'm good at :fire:
 **Language:**  Python
 
-**Transfer Learning:** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2 with Fine Tuning methods.
+**Transfer Learning -** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2 with Fine Tuning methods.
 
 **Datasets worked on:** 70 Sports Prediction, Dogs Vs Wolves, Cotton Disease Prediction, Dogs Vs Cats, Soccer Vs Rugby, CIFAR10 and more..
 
