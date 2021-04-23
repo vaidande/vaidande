@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I’m a Information Technology graduate of 2020 batch. I come with an extensive experience of working with different technologies including Deep Learning, Machine Learning and Data Science.
+I’m a Information Technology graduate of 2020 batch. I come with an extensive experience of working with technologies including Deep Learning and Machine Learning.
 
 Currently, I am looking for a intern role in Deep Learning, Machine Learning or related field. 
 
