@@ -17,7 +17,7 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 **Neural Networks -** Convolutional Neural Networks, Feedforward Artificial Neural Networks, Recurrent Neural Network.
 
 ## YOLOv4 DeepSORT
-<p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/9c4d26f1ce78619869a19e4ea60c00d9193d0871/outputs/demo1.gif"\></p>
+<p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/9c4d26f1ce78619869a19e4ea60c00d9193d0871/outputs/demo1.gif" width=400></p>
 Here, other objects like bicycle and suitcase are also been detected and tracked.
 
 ### How to reach me 📱
