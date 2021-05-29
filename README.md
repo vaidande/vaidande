@@ -6,7 +6,7 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 ### Things I'm good at :fire:
 **Language:**  Python
 
-**Object Detection and Tracking-** Detectron2, TFOD, YOLO, Deepsort.
+**Object Detection and Tracking-** Detectron2, TFOD, YOLO, DeepSORT.
 
 **Transfer Learning -** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2 with Fine Tuning methods.
 
