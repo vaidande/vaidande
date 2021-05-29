@@ -16,8 +16,8 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 
 **Neural Networks -** Convolutional Neural Networks, Feedforward Artificial Neural Networks, Recurrent Neural Network.
 
-## YOLOv4 DeepSORT
-<p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/9c4d26f1ce78619869a19e4ea60c00d9193d0871/outputs/demo1.gif" width=400></p>
+## YOLOv4 DeepSORT and Wildfire Detection in YOLOv5
+<p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/9c4d26f1ce78619869a19e4ea60c00d9193d0871/outputs/demo1.gif" width=400><img src="https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/9424d68c8f3b14408409ba0a8ea247fa0cff250b/images/smoke-video.gif" width=400></p>
 Here, other objects like bicycle and suitcase are also been detected and tracked.
 
 ### How to reach me 📱
