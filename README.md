@@ -16,8 +16,13 @@ Currently, I am looking for a intern role in Deep Learning, Machine Learning or 
 
 **Neural Networks -** Convolutional Neural Networks, Feedforward Artificial Neural Networks, Recurrent Neural Network.
 
-## YOLOv4 DeepSORT and Wildfire Detection in YOLOv5
+### YOLOv4 DeepSORT and Wildfire Detection in YOLOv5
 <p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/9c4d26f1ce78619869a19e4ea60c00d9193d0871/outputs/demo1.gif" width=400><img src="https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/9424d68c8f3b14408409ba0a8ea247fa0cff250b/images/smoke-video.gif" width=400></p>
+
+### Pothole Detection YOLOv5
+<p align="left"><img src="https://github.com/vaidande/Pothole-Detection-YOLOv5/blob/05c1ddd07af523a4f6f37f163adb72e044a90be8/images/pothole-video.gif" width=400></p>
+
+
 ### How to reach me 📱
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918605498378) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/ritik-vaidande-6a1117168/)
