@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 
 I’m a Information Technology graduate of 2020 batch. I come with an extensive experience of working with technologies including Deep Learning and Machine Learning.
 
-Currently, I am looking for a intern role in Deep Learning, Machine Learning or related field. 
+Currently, I am looking for a intern or full-time role in Deep Learning field. 
 
 ### Things I'm good at :fire:
 **Language:**  Python
