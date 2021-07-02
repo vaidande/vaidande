@@ -22,6 +22,8 @@ Currently, I am looking for a intern or full-time role in Deep Learning field.
 ### Car Damage Detection-Detectron2 and Pothole Detection-YOLOv5
 <p align="left"><img src="https://github.com/vaidande/Car-Damage-Detection-Detectron2/blob/b2c0ea2a8c57aede0cfd1ff1254f0f78fce25b01/video.gif" width=400><img src="https://github.com/vaidande/Pothole-Detection-YOLOv5/blob/05c1ddd07af523a4f6f37f163adb72e044a90be8/images/pothole-video.gif" width=400></p>
 
+### Sign Language Detection-TFOD LSTM
+<p align="left"><img src="https://github.com/vaidande/Sign-Language-Detection-TFOD-LSTM/blob/f72ef183562387e8ef3bcb044f4f7e42a1937c29/detectionvideo.gif" width=400>
 
 ### How to reach me 📱
 
