@@ -12,10 +12,6 @@ Currently, I am looking for a intern or full-time role in Deep Learning field.
 
 **Libraries, Frameworks & Tools -** Keras, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib.
 
-**Data Analysis -** Image Classification, Data Visualization, Data Augmentation.
-
-**Neural Networks -** Convolutional Neural Networks, Feedforward Artificial Neural Networks, Recurrent Neural Network.
-
 ### YOLOv4 DeepSORT and Wildfire Detection-YOLOv5
 <p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/ef5c436763998fe918198ddfd8689c55a8326528/outputs/demo1-compress.gif" width=400><img src="https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/9424d68c8f3b14408409ba0a8ea247fa0cff250b/images/smoke-video.gif" width=400></p>
 
