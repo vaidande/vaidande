@@ -1,7 +1,7 @@
 ### Hi there 👋🏻 
 I’m a Information Technology graduate. I come with an extensive experience of working with technologies including Deep Learning and Machine Learning.
 
-Currently, I am looking for a intern or full-time role in Deep Learning field. 
+Currently, I am looking for a internship or full-time role in Deep Learning field. 
 
 ### Things I'm good at :fire:
 **Language:**  Python
