@@ -1,7 +1,5 @@
 ### Hi there 👋🏻 
-I’m a Information Technology graduate. I come with an extensive experience of working with technologies including Deep Learning and Machine Learning.
-
-Currently, I am looking for a internship or full-time role in Deep Learning field. 
+I am an aspiring Deep Learning and Computer Vision enthusiast who is fascinated to automate the world. I have made myself to adapt various Python packages like Tensorflow, OpenCV, Keras and more. My repositories contains my projects like Car Damage Detection (Segmentation), Pothole Detection, Wildfire Detection, Sign Language Recognition using YOLO, Detectron2, TFOD, VGG16, ResNet50 and more.
 
 ### Things I'm good at :fire:
 **Language:**  Python
@@ -10,7 +8,7 @@ Currently, I am looking for a internship or full-time role in Deep Learning fiel
 
 **Transfer Learning -** Xception, VGG16, InceptionV3, ResnNet50, InceptionResNetV2 with Fine Tuning methods.
 
-**Libraries, Frameworks & Tools -** Keras, TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib.
+**Libraries, Frameworks & Tools -** Keras, TensorFlow, NumPy, Pandas, Matplotlib.
 
 ### YOLOv4 DeepSORT and Wildfire Detection-YOLOv5
 <p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/ef5c436763998fe918198ddfd8689c55a8326528/outputs/demo1-compress.gif" width=400><img src="https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/9424d68c8f3b14408409ba0a8ea247fa0cff250b/images/smoke-video.gif" width=400></p>
