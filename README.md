@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I am an aspiring Deep Learning and Computer Vision enthusiast who is fascinated to automate the world. I have made myself to adapt various Python packages like Tensorflow, OpenCV, Keras and more. My repositories contains my projects like Car Damage Detection (Segmentation), Pothole Detection, Wildfire Detection, Sign Language Recognition using YOLO, Detectron2, TFOD, VGG16, ResNet50 and more.
+I am an aspiring Deep Learning and Computer Vision enthusiast who is fascinated to automate the world. I have made myself to adapt various Python packages like Tensorflow, OpenCV, Keras and more. My repositories contains my projects like Car Damage Detection (Segmentation), Pothole Detection, Wildfire Detection, Sign Language Recognition and Transfer Learning projects and more by using algos YOLO, Detectron2, TFOD, VGG16, ResNet50 and more.
 
 ### Things I'm good at :fire:
 **Language:**  Python
