@@ -14,7 +14,7 @@ I am an aspiring Deep Learning and Computer Vision enthusiast who is fascinated 
 <p align="left"><img src="https://github.com/vaidande/YOLOv4-DeepSORT/blob/ef5c436763998fe918198ddfd8689c55a8326528/outputs/demo1-compress.gif" width=400><img src="https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/9424d68c8f3b14408409ba0a8ea247fa0cff250b/images/smoke-video.gif" width=400></p>
 
 ### Car Damage Detection-Detectron2 and Pothole Detection-YOLOv5
-<p align="left"><img src="https://github.com/vaidande/Car-Damage-Detection-Detectron2/blob/b2c0ea2a8c57aede0cfd1ff1254f0f78fce25b01/video.gif" width=400><img src="https://github.com/vaidande/Pothole-Detection-YOLOv5/blob/05c1ddd07af523a4f6f37f163adb72e044a90be8/images/pothole-video.gif" width=400></p>
+<p align="left"><img src="https://github.com/vaidande/Car-Damage-Detection-Detectron2/blob/b2c0ea2a8c57aede0cfd1ff1254f0f78fce25b01/video.gif" width=400><img src="https://github.com/vaidande/Pothole-Detection-YOLOv5/blob/f54e254532c0025149cdaea87154c6c2d19f3a9e/images/ezgif.com-gif-maker%20(1).gif" width=400></p>
 
 ### Sign Language Detection-TFOD LSTM
 <p align="left"><img src="https://github.com/vaidande/Sign-Language-Detection-TFOD-LSTM/blob/f72ef183562387e8ef3bcb044f4f7e42a1937c29/detectionvideo.gif" width=400>
